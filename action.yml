@@ -23,3 +23,4 @@ runs:
     - ${{ inputs.source-repo }}
     - ${{ inputs.destination-repo }}
     - ${{ inputs.dry-run }}
+    - ${{ secrets.DEPLOY_KEY }}
