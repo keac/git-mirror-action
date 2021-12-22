@@ -1,5 +1,5 @@
 # Git Mirror Action1
-
+2
 A GitHub Action for [mirroring a git repository](https://help.github.com/en/articles/duplicating-a-repository#mirroring-a-repository-in-another-location) to another location via SSH.
 
 ## Inputs
